@@ -62,4 +62,3 @@ You can read [more about Pandas Datareader Here](https://pandas-datareader.readt
 
 #### P4: Multi-factor Model
 
-If you are interested in learning how NLP is applied to the financial industry, such as Bloomberg, you may find [this video](https://www.youtube.com/watch?v=FZbvvMLx190&feature=youtu.be) interesting. Also, [here](https://github.com/firmai/financial-machine-learning#portfolio-management) is a curated list some other tools about portfolio managements
